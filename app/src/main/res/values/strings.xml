@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="buttonAdd_name">Add new case</string>
+    <string name="buttonDone_name">Done</string>
+    <string name="tVNewCase_name">New case</string>
+    <string name="editTextNewCase_name">Enter case</string>
+</resources>
